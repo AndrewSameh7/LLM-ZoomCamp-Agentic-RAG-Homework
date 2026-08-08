@@ -551,29 +551,34 @@ The Q6 interface also displays useful execution information such as:
 
 The project UI can be demonstrated through the following screenshots.
 
+## UI Overview
+
+![UI Overview Screenshot](assets/ui-overview.png)
+
 ## Q1 — Lesson Pages
 
-![Q1 Screenshot](docs/screenshots/q1.png)
+![Q1 Screenshot](assets/q1.png)
 
 ## Q2 — Search
 
-![Q2 Screenshot](docs/screenshots/q2.png)
+![Q2 Screenshot](assets/q2.png)
 
 ## Q3 — Basic RAG
 
-![Q3 Screenshot](docs/screenshots/q3.png)
+![Q3 Screenshot](assets/q3.png)
 
 ## Q4 — Chunking
 
-![Q4 Screenshot](docs/screenshots/q4.png)
+![Q4 Screenshot](assets/q4.png)
 
 ## Q5 — RAG with Chunking
 
-![Q5 Screenshot](docs/screenshots/q5.png)
+![Q5 Screenshot](assets/q5.png)
 
 ## Q6 — Agentic RAG
 
-![Q6 Screenshot](docs/screenshots/q6.png)
+![Q6 Screenshot](assets/q6-running.png)
+![Q6 Screenshot](assets/q6-answer.png)
 
 > Screenshots will be added to `docs/screenshots/`.
 
