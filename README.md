@@ -557,30 +557,30 @@ The project UI can be demonstrated through the following screenshots.
 
 ## Q1 — Lesson Pages
 
-![Q1 Screenshot](assets/q1.png)
+![Q1 Screenshot](assets/q1.jpg)
 
 ## Q2 — Search
 
-![Q2 Screenshot](assets/q2.png)
+![Q2 Screenshot](assets/q2.jpg)
 
 ## Q3 — Basic RAG
 
-![Q3 Screenshot](assets/q3.png)
+![Q3 Screenshot](assets/q3.jpg)
 
 ## Q4 — Chunking
 
-![Q4 Screenshot](assets/q4.png)
+![Q4 Screenshot](assets/q4.jpg)
 
 ## Q5 — RAG with Chunking
 
-![Q5 Screenshot](assets/q5.png)
+![Q5 Screenshot](assets/q5.jpg)
 
 ## Q6 — Agentic RAG
 
-![Q6 Screenshot](assets/q6-running.png)
-![Q6 Screenshot](assets/q6-answer.png)
+![Q6 Screenshot](assets/q6-running.jpg)
+![Q6 Screenshot](assets/q6-answer.jpg)
 
-> Screenshots will be added to `docs/screenshots/`.
+> Screenshots will be added to `assets/`.
 
 ---
 
