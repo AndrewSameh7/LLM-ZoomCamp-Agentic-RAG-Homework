@@ -553,7 +553,7 @@ The project UI can be demonstrated through the following screenshots.
 
 ## UI Overview
 
-![UI Overview Screenshot](assets/ui-overview.png)
+![UI Overview Screenshot](assets/ui-overview.jpg)
 
 ## Q1 — Lesson Pages
 
