@@ -156,17 +156,17 @@ LLM-ZoomCamp-Agentic-RAG-Homework/
 ├── ui/
 │   └── app.py
 │
-├── docs/
-│   ├── screenshots/
-│   │   ├── q1.png
-│   │   ├── q2.png
-│   │   ├── q3.png
-│   │   ├── q4.png
-│   │   ├── q5.png
-│   │   └── q6.png
-│   │
-│   └── demo/
-│       └── agentic-rag-demo.mp4
+├── assets/
+│   ├── ui-overview.jpg
+│   ├── q1.jpg
+│   ├── q2.jpg
+│   ├── q3.jpg
+│   ├── q4.jpg
+│   ├── q5.jpg
+│   ├── q6-running.jpg
+│   ├── q6-answer.jpg
+│   └── Agentic_RAG_Homework_Demo.webm 
+│   
 │
 ├── pyproject.toml
 ├── uv.lock
@@ -590,7 +590,7 @@ A short screen recording demonstrating the Streamlit Agentic RAG application wil
 
 ### Agentic RAG Demo
 
-[▶️ Watch the Demo](docs/demo/agentic-rag-demo.mp4)
+[▶️ Watch the Demo](assets/Agentic_RAG_Homework_Demo.webm)
 
 The demo shows:
 
