@@ -601,7 +601,7 @@ The demo shows:
 5. The final generated answer.
 6. Search-call and token statistics.
 
-> The demo video will be added to `docs/demo/`.
+> The demo video will be added to `assets/`.
 
 ---
 
